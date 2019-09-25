@@ -6,7 +6,7 @@
   "scripts": {
     "build": "NODE_ENV=production webpack --config webpack.config.js",
     "start": "webpack-dev-server --open",
-    "format": "node_modules/prettier/bin-prettier.js --single-quote --write \"src/**/*.{html,css,js}\""
+    "format": "prettier --single-quote --write \"src/**/*.{html,css,js}\""
   },
   "author": "",
   "license": "ISC",
