@@ -48,7 +48,11 @@ You can either get the code by downloading this repository as a zip-file or usin
 ```
 git clone https://github.com/eskilfogelstrom/webpack-boilerplate.git
 ```
-This will create a new folder called `webpack-boilerplate` containing all the code. You can rename this folder into whatever suits you. If you used `git clone` do get the code, we need to remove the connection to this repository. We do that by removing GIT from the folder:
+This will create a new folder called `webpack-boilerplate` containing all the code. Let's navigate there using:
+```
+cd webpack-boilerplate
+````
+If you used `git clone` do get the code, we need to remove the connection to this repository. We do that by removing GIT from the folder:
 ```
 rm -rf .git/
 ```
