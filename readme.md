@@ -6,6 +6,7 @@ This folder contains a boilerplate to a project containing tools for helping you
 
 ## Requirements
 * **Node.js** and **NPM** installed (https://nodejs.org/en/download/)
+* **Git** installed
 
 ## Setup
 Node & NPM are programs that doesn't have a GUI meaning that they can only be run through the terminal.
